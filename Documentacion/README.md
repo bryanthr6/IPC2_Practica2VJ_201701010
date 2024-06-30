@@ -23,4 +23,4 @@ En VisualStudio Code, en la terminal, ubicarse en la carpeta donde se encuentra 
 3. Escribir la información de los libros en formato XML
 4. Verificar que esté "POST" y darle a send
 
-![Captura de pantalla de la vista de Postman](C:\Users\Bryant Herrera\Documents\Repositorios\IPC2_Practica2VJ_201701010\Documentación\images\01.jpg)
+![Captura de pantalla de la vista de Postman](./images/01.png)
