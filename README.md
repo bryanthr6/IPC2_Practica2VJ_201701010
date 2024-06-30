@@ -23,10 +23,10 @@ En VisualStudio Code, en la terminal, ubicarse en la carpeta donde se encuentra 
 3. Escribir la información de los libros en formato XML
 4. Verificar que esté "POST" y darle clic a send
 
-![Captura de pantalla de la vista de Postman](./images/01.jpg)
+![Captura de pantalla de la vista de Postman](./Documentacion/images/01.jpg)
 
 El Resultado se puede ver así con un mensaje de que se cargó correctamente el archivo:
-![Vista del resultado](./images/02.jpg)
+![Vista del resultado](./Documentacion/images/02.jpg)
 
 ****
 ### Ver Todos los Libros
@@ -37,8 +37,8 @@ El Resultado se puede ver así con un mensaje de que se cargó correctamente el 
 1. Colocar en Postman `http://localhost:5000/verLibros`
 2. Verificar que esté "GET" y darle clic a send
 
-![Vista de como muestra Postman la salida1](./images/03.jpg)
-![Vista de como muestra Postman la salida2](./images/04.jpg)
+![Vista de como muestra Postman la salida1](./Documentacion/images/03.jpg)
+![Vista de como muestra Postman la salida2](./Documentacion/images/04.jpg)
 
 Verificar que haya un archivo cargado antes de presionar send 
 ****
@@ -53,9 +53,9 @@ Verificar que haya un archivo cargado antes de presionar send
 2. En "<libro_id>" asegurarse de colocar un ID que exista en el archivo que se cargó
 3. Verificar que esté "GET" y darle clic a send
 
-![Salida de postman con LIB01](./images/05.jpg)
-![Salida de postman con LIB08](./images/06.jpg)
-![Salida de postman con LIB15](./images/07.jpg)
+![Salida de postman con LIB01](./Documentacion/images/05.jpg)
+![Salida de postman con LIB08](./Documentacion/images/06.jpg)
+![Salida de postman con LIB15](./Documentacion/images/07.jpg)
 
 ****
 ### Filtrar Libros por Categoría en JSON
@@ -68,9 +68,9 @@ Verificar que haya un archivo cargado antes de presionar send
 2. En "<libro_id>" asegurarse de colocar una categoría que exista en el archivo que se cargó
 3. Verificar que esté "GET" y darle clic a send
 
-![Categoría Romance](./images/08.jpg)
-![Categoría Ciencia Ficción](./images/09.jpg)
-![Categoría Terror](./images/10.jpg)
+![Categoría Romance](./Documentacion/images/08.jpg)
+![Categoría Ciencia Ficción](./Documentacion/images/09.jpg)
+![Categoría Terror](./Documentacion/images/10.jpg)
 
 ## Errores y Estado
 
